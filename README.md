@@ -4,11 +4,7 @@
 
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/dmitri-kolisnichenko-a41813220/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dmitri-kolisnichenko-a41813220/)
-
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
